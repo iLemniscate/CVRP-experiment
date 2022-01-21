@@ -1,0 +1,1727 @@
+{
+  "A-n32-k5": {
+    "class": "A",
+    "jobs": 31,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 410,
+    "best_known_cost": 784,
+    "proven_optimal": true
+  },
+  "A-n33-k5": {
+    "class": "A",
+    "jobs": 32,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 446,
+    "best_known_cost": 661,
+    "proven_optimal": true
+  },
+  "A-n33-k6": {
+    "class": "A",
+    "jobs": 32,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 541,
+    "best_known_cost": 742,
+    "proven_optimal": true
+  },
+  "A-n34-k5": {
+    "class": "A",
+    "jobs": 33,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 460,
+    "best_known_cost": 778,
+    "proven_optimal": true
+  },
+  "A-n36-k5": {
+    "class": "A",
+    "jobs": 35,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 442,
+    "best_known_cost": 799,
+    "proven_optimal": true
+  },
+  "A-n37-k5": {
+    "class": "A",
+    "jobs": 36,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 407,
+    "best_known_cost": 669,
+    "proven_optimal": true
+  },
+  "A-n37-k6": {
+    "class": "A",
+    "jobs": 36,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 570,
+    "best_known_cost": 949,
+    "proven_optimal": true
+  },
+  "A-n38-k5": {
+    "class": "A",
+    "jobs": 37,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 481,
+    "best_known_cost": 730,
+    "proven_optimal": true
+  },
+  "A-n39-k5": {
+    "class": "A",
+    "jobs": 38,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 475,
+    "best_known_cost": 822,
+    "proven_optimal": true
+  },
+  "A-n39-k6": {
+    "class": "A",
+    "jobs": 38,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 526,
+    "best_known_cost": 831,
+    "proven_optimal": true
+  },
+  "A-n44-k6": {
+    "class": "A",
+    "jobs": 43,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 570,
+    "best_known_cost": 937,
+    "proven_optimal": true
+  },
+  "A-n45-k6": {
+    "class": "A",
+    "jobs": 44,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 593,
+    "best_known_cost": 944,
+    "proven_optimal": true
+  },
+  "A-n45-k7": {
+    "class": "A",
+    "jobs": 44,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 634,
+    "best_known_cost": 1146,
+    "proven_optimal": true
+  },
+  "A-n46-k7": {
+    "class": "A",
+    "jobs": 45,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 603,
+    "best_known_cost": 914,
+    "proven_optimal": true
+  },
+  "A-n48-k7": {
+    "class": "A",
+    "jobs": 47,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 626,
+    "best_known_cost": 1073,
+    "proven_optimal": true
+  },
+  "A-n53-k7": {
+    "class": "A",
+    "jobs": 52,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 664,
+    "best_known_cost": 1010,
+    "proven_optimal": true
+  },
+  "A-n54-k7": {
+    "class": "A",
+    "jobs": 53,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 669,
+    "best_known_cost": 1167,
+    "proven_optimal": true
+  },
+  "A-n55-k9": {
+    "class": "A",
+    "jobs": 54,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 839,
+    "best_known_cost": 1073,
+    "proven_optimal": true
+  },
+  "A-n60-k9": {
+    "class": "A",
+    "jobs": 59,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 829,
+    "best_known_cost": 1354,
+    "proven_optimal": true
+  },
+  "A-n61-k9": {
+    "class": "A",
+    "jobs": 60,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 885,
+    "best_known_cost": 1034,
+    "proven_optimal": true
+  },
+  "A-n62-k8": {
+    "class": "A",
+    "jobs": 61,
+    "vehicles": 8,
+    "capacity": 100,
+    "total_amount": 733,
+    "best_known_cost": 1288,
+    "proven_optimal": true
+  },
+  "A-n63-k9": {
+    "class": "A",
+    "jobs": 62,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 873,
+    "best_known_cost": 1616,
+    "proven_optimal": true
+  },
+  "A-n63-k10": {
+    "class": "A",
+    "jobs": 62,
+    "vehicles": 10,
+    "capacity": 100,
+    "total_amount": 932,
+    "best_known_cost": 1314,
+    "proven_optimal": true
+  },
+  "A-n64-k9": {
+    "class": "A",
+    "jobs": 63,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 848,
+    "best_known_cost": 1401,
+    "proven_optimal": true
+  },
+  "A-n65-k9": {
+    "class": "A",
+    "jobs": 64,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 877,
+    "best_known_cost": 1174,
+    "proven_optimal": true
+  },
+  "A-n69-k9": {
+    "class": "A",
+    "jobs": 68,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 845,
+    "best_known_cost": 1159,
+    "proven_optimal": true
+  },
+  "A-n80-k10": {
+    "class": "A",
+    "jobs": 79,
+    "vehicles": 10,
+    "capacity": 100,
+    "total_amount": 942,
+    "best_known_cost": 1763,
+    "proven_optimal": true
+  },
+  "B-n31-k5": {
+    "class": "B",
+    "jobs": 30,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 412,
+    "best_known_cost": 672,
+    "proven_optimal": true
+  },
+  "B-n34-k5": {
+    "class": "B",
+    "jobs": 33,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 457,
+    "best_known_cost": 788,
+    "proven_optimal": true
+  },
+  "B-n35-k5": {
+    "class": "B",
+    "jobs": 34,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 437,
+    "best_known_cost": 955,
+    "proven_optimal": true
+  },
+  "B-n38-k6": {
+    "class": "B",
+    "jobs": 37,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 512,
+    "best_known_cost": 805,
+    "proven_optimal": true
+  },
+  "B-n39-k5": {
+    "class": "B",
+    "jobs": 38,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 440,
+    "best_known_cost": 549,
+    "proven_optimal": true
+  },
+  "B-n41-k6": {
+    "class": "B",
+    "jobs": 40,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 567,
+    "best_known_cost": 829,
+    "proven_optimal": true
+  },
+  "B-n43-k6": {
+    "class": "B",
+    "jobs": 42,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 521,
+    "best_known_cost": 742,
+    "proven_optimal": true
+  },
+  "B-n44-k7": {
+    "class": "B",
+    "jobs": 43,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 641,
+    "best_known_cost": 909,
+    "proven_optimal": true
+  },
+  "B-n45-k5": {
+    "class": "B",
+    "jobs": 44,
+    "vehicles": 5,
+    "capacity": 100,
+    "total_amount": 486,
+    "best_known_cost": 751,
+    "proven_optimal": true
+  },
+  "B-n45-k6": {
+    "class": "B",
+    "jobs": 44,
+    "vehicles": 6,
+    "capacity": 100,
+    "total_amount": 592,
+    "best_known_cost": 678,
+    "proven_optimal": true
+  },
+  "B-n50-k7": {
+    "class": "B",
+    "jobs": 49,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 609,
+    "best_known_cost": 741,
+    "proven_optimal": true
+  },
+  "B-n50-k8": {
+    "class": "B",
+    "jobs": 49,
+    "vehicles": 8,
+    "capacity": 100,
+    "total_amount": 735,
+    "best_known_cost": 1312,
+    "proven_optimal": true
+  },
+  "B-n51-k7": {
+    "class": "B",
+    "jobs": 50,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 684,
+    "best_known_cost": 1032,
+    "proven_optimal": true
+  },
+  "B-n52-k7": {
+    "class": "B",
+    "jobs": 51,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 606,
+    "best_known_cost": 747,
+    "proven_optimal": true
+  },
+  "B-n56-k7": {
+    "class": "B",
+    "jobs": 55,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 616,
+    "best_known_cost": 707,
+    "proven_optimal": true
+  },
+  "B-n57-k7": {
+    "class": "B",
+    "jobs": 56,
+    "vehicles": 7,
+    "capacity": 100,
+    "total_amount": 697,
+    "best_known_cost": 1153,
+    "proven_optimal": true
+  },
+  "B-n57-k9": {
+    "class": "B",
+    "jobs": 56,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 803,
+    "best_known_cost": 1598,
+    "proven_optimal": true
+  },
+  "B-n63-k10": {
+    "class": "B",
+    "jobs": 62,
+    "vehicles": 10,
+    "capacity": 100,
+    "total_amount": 922,
+    "best_known_cost": 1496,
+    "proven_optimal": true
+  },
+  "B-n64-k9": {
+    "class": "B",
+    "jobs": 63,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 878,
+    "best_known_cost": 861,
+    "proven_optimal": true
+  },
+  "B-n66-k9": {
+    "class": "B",
+    "jobs": 65,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 861,
+    "best_known_cost": 1316,
+    "proven_optimal": true
+  },
+  "B-n67-k10": {
+    "class": "B",
+    "jobs": 66,
+    "vehicles": 10,
+    "capacity": 100,
+    "total_amount": 907,
+    "best_known_cost": 1032,
+    "proven_optimal": true
+  },
+  "B-n68-k9": {
+    "class": "B",
+    "jobs": 67,
+    "vehicles": 9,
+    "capacity": 100,
+    "total_amount": 837,
+    "best_known_cost": 1272,
+    "proven_optimal": true
+  },
+  "B-n78-k10": {
+    "class": "B",
+    "jobs": 77,
+    "vehicles": 10,
+    "capacity": 100,
+    "total_amount": 937,
+    "best_known_cost": 1221,
+    "proven_optimal": true
+  },
+  "E-n22-k4": {
+    "class": "E",
+    "jobs": 21,
+    "vehicles": 4,
+    "capacity": 6000,
+    "total_amount": 22500,
+    "best_known_cost": 375,
+    "proven_optimal": true
+  },
+  "E-n23-k3": {
+    "class": "E",
+    "jobs": 22,
+    "vehicles": 3,
+    "capacity": 4500,
+    "total_amount": 10189,
+    "best_known_cost": 569,
+    "proven_optimal": true
+  },
+  "E-n30-k3": {
+    "class": "E",
+    "jobs": 29,
+    "vehicles": 3,
+    "capacity": 4500,
+    "total_amount": 12750,
+    "best_known_cost": 534,
+    "proven_optimal": true
+  },
+  "E-n33-k4": {
+    "class": "E",
+    "jobs": 32,
+    "vehicles": 4,
+    "capacity": 8000,
+    "total_amount": 29370,
+    "best_known_cost": 835,
+    "proven_optimal": true
+  },
+  "E-n51-k5": {
+    "class": "E",
+    "jobs": 50,
+    "vehicles": 5,
+    "capacity": 160,
+    "total_amount": 777,
+    "best_known_cost": 521,
+    "proven_optimal": true
+  },
+  "E-n76-k7": {
+    "class": "E",
+    "jobs": 75,
+    "vehicles": 7,
+    "capacity": 220,
+    "total_amount": 1364,
+    "best_known_cost": 682,
+    "proven_optimal": true
+  },
+  "E-n76-k8": {
+    "class": "E",
+    "jobs": 75,
+    "vehicles": 8,
+    "capacity": 180,
+    "total_amount": 1364,
+    "best_known_cost": 735,
+    "proven_optimal": true
+  },
+  "E-n76-k10": {
+    "class": "E",
+    "jobs": 75,
+    "vehicles": 10,
+    "capacity": 140,
+    "total_amount": 1364,
+    "best_known_cost": 830,
+    "proven_optimal": true
+  },
+  "E-n76-k14": {
+    "class": "E",
+    "jobs": 75,
+    "vehicles": 14,
+    "capacity": 100,
+    "total_amount": 1364,
+    "best_known_cost": 1021,
+    "proven_optimal": true
+  },
+  "E-n101-k8": {
+    "class": "E",
+    "jobs": 100,
+    "vehicles": 8,
+    "capacity": 200,
+    "total_amount": 1458,
+    "best_known_cost": 815,
+    "proven_optimal": true
+  },
+  "E-n101-k14": {
+    "class": "E",
+    "jobs": 100,
+    "vehicles": 14,
+    "capacity": 112,
+    "total_amount": 1458,
+    "best_known_cost": 1067,
+    "proven_optimal": true
+  },
+  "F-n45-k4": {
+    "class": "F",
+    "jobs": 44,
+    "vehicles": 4,
+    "capacity": 2010,
+    "total_amount": 7220,
+    "best_known_cost": 724,
+    "proven_optimal": true
+  },
+  "F-n72-k4": {
+    "class": "F",
+    "jobs": 71,
+    "vehicles": 4,
+    "capacity": 30000,
+    "total_amount": 114840,
+    "best_known_cost": 237,
+    "proven_optimal": true
+  },
+  "F-n135-k7": {
+    "class": "F",
+    "jobs": 134,
+    "vehicles": 7,
+    "capacity": 2210,
+    "total_amount": 14620,
+    "best_known_cost": 1162,
+    "proven_optimal": true
+  },
+  "M-n101-k10": {
+    "class": "M",
+    "jobs": 100,
+    "vehicles": 10,
+    "capacity": 200,
+    "total_amount": 1810,
+    "best_known_cost": 820,
+    "proven_optimal": true
+  },
+  "M-n121-k7": {
+    "class": "M",
+    "jobs": 120,
+    "vehicles": 7,
+    "capacity": 200,
+    "total_amount": 1375,
+    "best_known_cost": 1034,
+    "proven_optimal": true
+  },
+  "M-n151-k12": {
+    "class": "M",
+    "jobs": 150,
+    "vehicles": 12,
+    "capacity": 200,
+    "total_amount": 2235,
+    "best_known_cost": 1015,
+    "proven_optimal": true
+  },
+  "M-n200-k16": {
+    "class": "M",
+    "jobs": 199,
+    "vehicles": 16,
+    "capacity": 200,
+    "total_amount": 3186,
+    "best_known_cost": 1274,
+    "proven_optimal": true
+  },
+  "M-n200-k17": {
+    "class": "M",
+    "jobs": 199,
+    "vehicles": 17,
+    "capacity": 200,
+    "total_amount": 3186,
+    "best_known_cost": 1275,
+    "proven_optimal": true
+  },
+  "P-n16-k8": {
+    "class": "P",
+    "jobs": 15,
+    "vehicles": 8,
+    "capacity": 35,
+    "total_amount": 246,
+    "best_known_cost": 450,
+    "proven_optimal": true
+  },
+  "P-n19-k2": {
+    "class": "P",
+    "jobs": 18,
+    "vehicles": 2,
+    "capacity": 160,
+    "total_amount": 310,
+    "best_known_cost": 212,
+    "proven_optimal": true
+  },
+  "P-n20-k2": {
+    "class": "P",
+    "jobs": 19,
+    "vehicles": 2,
+    "capacity": 160,
+    "total_amount": 310,
+    "best_known_cost": 216,
+    "proven_optimal": true
+  },
+  "P-n21-k2": {
+    "class": "P",
+    "jobs": 20,
+    "vehicles": 2,
+    "capacity": 160,
+    "total_amount": 298,
+    "best_known_cost": 211,
+    "proven_optimal": true
+  },
+  "P-n22-k2": {
+    "class": "P",
+    "jobs": 21,
+    "vehicles": 2,
+    "capacity": 160,
+    "total_amount": 308,
+    "best_known_cost": 216,
+    "proven_optimal": true
+  },
+  "P-n22-k8": {
+    "class": "P",
+    "jobs": 21,
+    "vehicles": 8,
+    "capacity": 3000,
+    "total_amount": 22500,
+    "best_known_cost": 603,
+    "proven_optimal": true
+  },
+  "P-n23-k8": {
+    "class": "P",
+    "jobs": 22,
+    "vehicles": 8,
+    "capacity": 40,
+    "total_amount": 313,
+    "best_known_cost": 529,
+    "proven_optimal": true
+  },
+  "P-n40-k5": {
+    "class": "P",
+    "jobs": 39,
+    "vehicles": 5,
+    "capacity": 140,
+    "total_amount": 618,
+    "best_known_cost": 458,
+    "proven_optimal": true
+  },
+  "P-n45-k5": {
+    "class": "P",
+    "jobs": 44,
+    "vehicles": 5,
+    "capacity": 150,
+    "total_amount": 692,
+    "best_known_cost": 510,
+    "proven_optimal": true
+  },
+  "P-n50-k7": {
+    "class": "P",
+    "jobs": 49,
+    "vehicles": 7,
+    "capacity": 150,
+    "total_amount": 951,
+    "best_known_cost": 554,
+    "proven_optimal": true
+  },
+  "P-n50-k8": {
+    "class": "P",
+    "jobs": 49,
+    "vehicles": 8,
+    "capacity": 120,
+    "total_amount": 951,
+    "best_known_cost": 631,
+    "proven_optimal": true
+  },
+  "P-n50-k10": {
+    "class": "P",
+    "jobs": 49,
+    "vehicles": 10,
+    "capacity": 100,
+    "total_amount": 951,
+    "best_known_cost": 696,
+    "proven_optimal": true
+  },
+  "P-n51-k10": {
+    "class": "P",
+    "jobs": 50,
+    "vehicles": 10,
+    "capacity": 80,
+    "total_amount": 777,
+    "best_known_cost": 741,
+    "proven_optimal": true
+  },
+  "P-n55-k7": {
+    "class": "P",
+    "jobs": 54,
+    "vehicles": 7,
+    "capacity": 170,
+    "total_amount": 1042,
+    "best_known_cost": 568,
+    "proven_optimal": true
+  },
+  "P-n55-k10": {
+    "class": "P",
+    "jobs": 54,
+    "vehicles": 10,
+    "capacity": 115,
+    "total_amount": 1042,
+    "best_known_cost": 694,
+    "proven_optimal": true
+  },
+  "P-n55-k15": {
+    "class": "P",
+    "jobs": 54,
+    "vehicles": 15,
+    "capacity": 70,
+    "total_amount": 1042,
+    "best_known_cost": 989,
+    "proven_optimal": true
+  },
+  "P-n60-k10": {
+    "class": "P",
+    "jobs": 59,
+    "vehicles": 10,
+    "capacity": 120,
+    "total_amount": 1134,
+    "best_known_cost": 744,
+    "proven_optimal": true
+  },
+  "P-n60-k15": {
+    "class": "P",
+    "jobs": 59,
+    "vehicles": 15,
+    "capacity": 80,
+    "total_amount": 1134,
+    "best_known_cost": 968,
+    "proven_optimal": true
+  },
+  "P-n65-k10": {
+    "class": "P",
+    "jobs": 64,
+    "vehicles": 10,
+    "capacity": 130,
+    "total_amount": 1219,
+    "best_known_cost": 792,
+    "proven_optimal": true
+  },
+  "P-n70-k10": {
+    "class": "P",
+    "jobs": 69,
+    "vehicles": 10,
+    "capacity": 135,
+    "total_amount": 1313,
+    "best_known_cost": 827,
+    "proven_optimal": true
+  },
+  "P-n76-k4": {
+    "class": "P",
+    "jobs": 75,
+    "vehicles": 4,
+    "capacity": 350,
+    "total_amount": 1364,
+    "best_known_cost": 593,
+    "proven_optimal": true
+  },
+  "P-n76-k5": {
+    "class": "P",
+    "jobs": 75,
+    "vehicles": 5,
+    "capacity": 280,
+    "total_amount": 1364,
+    "best_known_cost": 627,
+    "proven_optimal": true
+  },
+  "P-n101-k4": {
+    "class": "P",
+    "jobs": 100,
+    "vehicles": 4,
+    "capacity": 400,
+    "total_amount": 1458,
+    "best_known_cost": 681,
+    "proven_optimal": true
+  },
+  "X-n101-k25": {
+    "class": "X",
+    "jobs": 100,
+    "vehicles": 25,
+    "capacity": 206,
+    "total_amount": 5147,
+    "best_known_cost": 27591,
+    "proven_optimal": true
+  },
+  "X-n106-k14": {
+    "class": "X",
+    "jobs": 105,
+    "vehicles": 14,
+    "capacity": 600,
+    "total_amount": 7864,
+    "best_known_cost": 26362,
+    "proven_optimal": true
+  },
+  "X-n110-k13": {
+    "class": "X",
+    "jobs": 109,
+    "vehicles": 13,
+    "capacity": 66,
+    "total_amount": 816,
+    "best_known_cost": 14971,
+    "proven_optimal": true
+  },
+  "X-n115-k10": {
+    "class": "X",
+    "jobs": 114,
+    "vehicles": 10,
+    "capacity": 169,
+    "total_amount": 1535,
+    "best_known_cost": 12747,
+    "proven_optimal": true
+  },
+  "X-n120-k6": {
+    "class": "X",
+    "jobs": 119,
+    "vehicles": 6,
+    "capacity": 21,
+    "total_amount": 119,
+    "best_known_cost": 13332,
+    "proven_optimal": true
+  },
+  "X-n125-k30": {
+    "class": "X",
+    "jobs": 124,
+    "vehicles": 30,
+    "capacity": 188,
+    "total_amount": 5536,
+    "best_known_cost": 55539,
+    "proven_optimal": true
+  },
+  "X-n129-k18": {
+    "class": "X",
+    "jobs": 128,
+    "vehicles": 18,
+    "capacity": 39,
+    "total_amount": 665,
+    "best_known_cost": 28940,
+    "proven_optimal": true
+  },
+  "X-n134-k13": {
+    "class": "X",
+    "jobs": 133,
+    "vehicles": 13,
+    "capacity": 643,
+    "total_amount": 8220,
+    "best_known_cost": 10916,
+    "proven_optimal": true
+  },
+  "X-n139-k10": {
+    "class": "X",
+    "jobs": 138,
+    "vehicles": 10,
+    "capacity": 106,
+    "total_amount": 1039,
+    "best_known_cost": 13590,
+    "proven_optimal": true
+  },
+  "X-n143-k7": {
+    "class": "X",
+    "jobs": 142,
+    "vehicles": 7,
+    "capacity": 1190,
+    "total_amount": 7475,
+    "best_known_cost": 15700,
+    "proven_optimal": true
+  },
+  "X-n148-k46": {
+    "class": "X",
+    "jobs": 147,
+    "vehicles": 46,
+    "capacity": 18,
+    "total_amount": 817,
+    "best_known_cost": 43448,
+    "proven_optimal": true
+  },
+  "X-n153-k22": {
+    "class": "X",
+    "jobs": 152,
+    "vehicles": 22,
+    "capacity": 144,
+    "total_amount": 3068,
+    "best_known_cost": 21220,
+    "proven_optimal": true
+  },
+  "X-n157-k13": {
+    "class": "X",
+    "jobs": 156,
+    "vehicles": 13,
+    "capacity": 12,
+    "total_amount": 156,
+    "best_known_cost": 16876,
+    "proven_optimal": true
+  },
+  "X-n162-k11": {
+    "class": "X",
+    "jobs": 161,
+    "vehicles": 11,
+    "capacity": 1174,
+    "total_amount": 12194,
+    "best_known_cost": 14138,
+    "proven_optimal": true
+  },
+  "X-n167-k10": {
+    "class": "X",
+    "jobs": 166,
+    "vehicles": 10,
+    "capacity": 133,
+    "total_amount": 1236,
+    "best_known_cost": 20557,
+    "proven_optimal": true
+  },
+  "X-n172-k51": {
+    "class": "X",
+    "jobs": 171,
+    "vehicles": 51,
+    "capacity": 161,
+    "total_amount": 8092,
+    "best_known_cost": 45607,
+    "proven_optimal": true
+  },
+  "X-n176-k26": {
+    "class": "X",
+    "jobs": 175,
+    "vehicles": 26,
+    "capacity": 142,
+    "total_amount": 3632,
+    "best_known_cost": 47812,
+    "proven_optimal": true
+  },
+  "X-n181-k23": {
+    "class": "X",
+    "jobs": 180,
+    "vehicles": 23,
+    "capacity": 8,
+    "total_amount": 180,
+    "best_known_cost": 25569,
+    "proven_optimal": true
+  },
+  "X-n186-k15": {
+    "class": "X",
+    "jobs": 185,
+    "vehicles": 15,
+    "capacity": 974,
+    "total_amount": 13853,
+    "best_known_cost": 24145,
+    "proven_optimal": true
+  },
+  "X-n190-k8": {
+    "class": "X",
+    "jobs": 189,
+    "vehicles": 8,
+    "capacity": 138,
+    "total_amount": 1043,
+    "best_known_cost": 16980,
+    "proven_optimal": true
+  },
+  "X-n195-k51": {
+    "class": "X",
+    "jobs": 194,
+    "vehicles": 51,
+    "capacity": 181,
+    "total_amount": 9208,
+    "best_known_cost": 44225,
+    "proven_optimal": true
+  },
+  "X-n200-k36": {
+    "class": "X",
+    "jobs": 199,
+    "vehicles": 36,
+    "capacity": 402,
+    "total_amount": 14263,
+    "best_known_cost": 58578,
+    "proven_optimal": true
+  },
+  "X-n204-k19": {
+    "class": "X",
+    "jobs": 203,
+    "vehicles": 19,
+    "capacity": 836,
+    "total_amount": 15135,
+    "best_known_cost": 19565,
+    "proven_optimal": true
+  },
+  "X-n209-k16": {
+    "class": "X",
+    "jobs": 208,
+    "vehicles": 16,
+    "capacity": 101,
+    "total_amount": 1547,
+    "best_known_cost": 30656,
+    "proven_optimal": true
+  },
+  "X-n214-k11": {
+    "class": "X",
+    "jobs": 213,
+    "vehicles": 11,
+    "capacity": 944,
+    "total_amount": 10356,
+    "best_known_cost": 10856,
+    "proven_optimal": true
+  },
+  "X-n219-k73": {
+    "class": "X",
+    "jobs": 218,
+    "vehicles": 73,
+    "capacity": 3,
+    "total_amount": 218,
+    "best_known_cost": 117595,
+    "proven_optimal": true
+  },
+  "X-n223-k34": {
+    "class": "X",
+    "jobs": 222,
+    "vehicles": 34,
+    "capacity": 37,
+    "total_amount": 1234,
+    "best_known_cost": 40437,
+    "proven_optimal": true
+  },
+  "X-n228-k23": {
+    "class": "X",
+    "jobs": 227,
+    "vehicles": 23,
+    "capacity": 154,
+    "total_amount": 3478,
+    "best_known_cost": 25742,
+    "proven_optimal": true
+  },
+  "X-n233-k16": {
+    "class": "X",
+    "jobs": 232,
+    "vehicles": 16,
+    "capacity": 631,
+    "total_amount": 10093,
+    "best_known_cost": 19230,
+    "proven_optimal": true
+  },
+  "X-n237-k14": {
+    "class": "X",
+    "jobs": 236,
+    "vehicles": 14,
+    "capacity": 18,
+    "total_amount": 236,
+    "best_known_cost": 27042,
+    "proven_optimal": true
+  },
+  "X-n242-k48": {
+    "class": "X",
+    "jobs": 241,
+    "vehicles": 48,
+    "capacity": 28,
+    "total_amount": 1324,
+    "best_known_cost": 82751,
+    "proven_optimal": true
+  },
+  "X-n247-k50": {
+    "class": "X",
+    "jobs": 246,
+    "vehicles": 47,
+    "capacity": 134,
+    "best_known_cost": 37274,
+    "proven_optimal": true
+  },
+  "X-n251-k28": {
+    "class": "X",
+    "jobs": 250,
+    "vehicles": 28,
+    "capacity": 69,
+    "total_amount": 1867,
+    "best_known_cost": 38684,
+    "proven_optimal": true
+  },
+  "X-n256-k16": {
+    "class": "X",
+    "jobs": 255,
+    "vehicles": 16,
+    "capacity": 1225,
+    "total_amount": 19514,
+    "best_known_cost": 18839,
+    "proven_optimal": false
+  },
+  "X-n261-k13": {
+    "class": "X",
+    "jobs": 260,
+    "vehicles": 13,
+    "capacity": 1081,
+    "total_amount": 13381,
+    "best_known_cost": 26558,
+    "proven_optimal": false
+  },
+  "X-n266-k58": {
+    "class": "X",
+    "jobs": 265,
+    "vehicles": 58,
+    "capacity": 35,
+    "total_amount": 2015,
+    "best_known_cost": 75478,
+    "proven_optimal": true
+  },
+  "X-n270-k35": {
+    "class": "X",
+    "jobs": 269,
+    "vehicles": 35,
+    "capacity": 585,
+    "total_amount": 20419,
+    "best_known_cost": 35291,
+    "proven_optimal": true
+  },
+  "X-n275-k28": {
+    "class": "X",
+    "jobs": 274,
+    "vehicles": 28,
+    "capacity": 10,
+    "total_amount": 274,
+    "best_known_cost": 21245,
+    "proven_optimal": true
+  },
+  "X-n280-k17": {
+    "class": "X",
+    "jobs": 279,
+    "vehicles": 17,
+    "capacity": 192,
+    "total_amount": 3233,
+    "best_known_cost": 33503,
+    "proven_optimal": false
+  },
+  "X-n284-k15": {
+    "class": "X",
+    "jobs": 283,
+    "vehicles": 15,
+    "capacity": 109,
+    "total_amount": 1527,
+    "best_known_cost": 20226,
+    "proven_optimal": false
+  },
+  "X-n289-k60": {
+    "class": "X",
+    "jobs": 288,
+    "vehicles": 60,
+    "capacity": 267,
+    "total_amount": 15974,
+    "best_known_cost": 95151,
+    "proven_optimal": true
+  },
+  "X-n294-k50": {
+    "class": "X",
+    "jobs": 293,
+    "vehicles": 50,
+    "capacity": 285,
+    "total_amount": 14135,
+    "best_known_cost": 47161,
+    "proven_optimal": false
+  },
+  "X-n298-k31": {
+    "class": "X",
+    "jobs": 297,
+    "vehicles": 31,
+    "capacity": 55,
+    "total_amount": 1689,
+    "best_known_cost": 34231,
+    "proven_optimal": true
+  },
+  "X-n303-k21": {
+    "class": "X",
+    "jobs": 302,
+    "vehicles": 21,
+    "capacity": 794,
+    "total_amount": 15967,
+    "best_known_cost": 21744,
+    "proven_optimal": false
+  },
+  "X-n308-k13": {
+    "class": "X",
+    "jobs": 307,
+    "vehicles": 13,
+    "capacity": 246,
+    "total_amount": 3118,
+    "best_known_cost": 25859,
+    "proven_optimal": false
+  },
+  "X-n313-k71": {
+    "class": "X",
+    "jobs": 312,
+    "vehicles": 71,
+    "capacity": 248,
+    "total_amount": 17545,
+    "best_known_cost": 94044,
+    "proven_optimal": false
+  },
+  "X-n317-k53": {
+    "class": "X",
+    "jobs": 316,
+    "vehicles": 53,
+    "capacity": 6,
+    "total_amount": 316,
+    "best_known_cost": 78355,
+    "proven_optimal": true
+  },
+  "X-n322-k28": {
+    "class": "X",
+    "jobs": 321,
+    "vehicles": 28,
+    "capacity": 868,
+    "total_amount": 24003,
+    "best_known_cost": 29834,
+    "proven_optimal": false
+  },
+  "X-n327-k20": {
+    "class": "X",
+    "jobs": 326,
+    "vehicles": 20,
+    "capacity": 128,
+    "total_amount": 2452,
+    "best_known_cost": 27532,
+    "proven_optimal": false
+  },
+  "X-n331-k15": {
+    "class": "X",
+    "jobs": 330,
+    "vehicles": 15,
+    "capacity": 23,
+    "total_amount": 330,
+    "best_known_cost": 31102,
+    "proven_optimal": true
+  },
+  "X-n336-k84": {
+    "class": "X",
+    "jobs": 335,
+    "vehicles": 84,
+    "capacity": 203,
+    "total_amount": 16921,
+    "best_known_cost": 139135,
+    "proven_optimal": false
+  },
+  "X-n344-k43": {
+    "class": "X",
+    "jobs": 343,
+    "vehicles": 43,
+    "capacity": 61,
+    "total_amount": 2602,
+    "best_known_cost": 42056,
+    "proven_optimal": false
+  },
+  "X-n351-k40": {
+    "class": "X",
+    "jobs": 350,
+    "vehicles": 40,
+    "capacity": 436,
+    "total_amount": 17317,
+    "best_known_cost": 25928,
+    "proven_optimal": false
+  },
+  "X-n359-k29": {
+    "class": "X",
+    "jobs": 358,
+    "vehicles": 29,
+    "capacity": 68,
+    "total_amount": 1946,
+    "best_known_cost": 51505,
+    "proven_optimal": false
+  },
+  "X-n367-k17": {
+    "class": "X",
+    "jobs": 366,
+    "vehicles": 17,
+    "capacity": 218,
+    "total_amount": 3647,
+    "best_known_cost": 22814,
+    "proven_optimal": false
+  },
+  "X-n376-k94": {
+    "class": "X",
+    "jobs": 375,
+    "vehicles": 94,
+    "capacity": 4,
+    "total_amount": 375,
+    "best_known_cost": 147713,
+    "proven_optimal": true
+  },
+  "X-n384-k52": {
+    "class": "X",
+    "jobs": 383,
+    "vehicles": 52,
+    "capacity": 564,
+    "total_amount": 29157,
+    "best_known_cost": 65943,
+    "proven_optimal": false
+  },
+  "X-n393-k38": {
+    "class": "X",
+    "jobs": 392,
+    "vehicles": 38,
+    "capacity": 78,
+    "total_amount": 2919,
+    "best_known_cost": 38260,
+    "proven_optimal": false
+  },
+  "X-n401-k29": {
+    "class": "X",
+    "jobs": 400,
+    "vehicles": 29,
+    "capacity": 745,
+    "total_amount": 21275,
+    "best_known_cost": 66187,
+    "proven_optimal": false
+  },
+  "X-n411-k19": {
+    "class": "X",
+    "jobs": 410,
+    "vehicles": 19,
+    "capacity": 216,
+    "total_amount": 3901,
+    "best_known_cost": 19718,
+    "proven_optimal": false
+  },
+  "X-n420-k130": {
+    "class": "X",
+    "jobs": 419,
+    "vehicles": 130,
+    "capacity": 18,
+    "total_amount": 2325,
+    "best_known_cost": 107798,
+    "proven_optimal": true
+  },
+  "X-n429-k61": {
+    "class": "X",
+    "jobs": 428,
+    "vehicles": 61,
+    "capacity": 536,
+    "total_amount": 32261,
+    "best_known_cost": 65483,
+    "proven_optimal": false
+  },
+  "X-n439-k37": {
+    "class": "X",
+    "jobs": 438,
+    "vehicles": 37,
+    "capacity": 12,
+    "total_amount": 438,
+    "best_known_cost": 36391,
+    "proven_optimal": true
+  },
+  "X-n449-k29": {
+    "class": "X",
+    "jobs": 448,
+    "vehicles": 29,
+    "capacity": 777,
+    "total_amount": 22439,
+    "best_known_cost": 55269,
+    "proven_optimal": false
+  },
+  "X-n459-k26": {
+    "class": "X",
+    "jobs": 458,
+    "vehicles": 26,
+    "capacity": 1106,
+    "total_amount": 28435,
+    "best_known_cost": 24145,
+    "proven_optimal": false
+  },
+  "X-n469-k138": {
+    "class": "X",
+    "jobs": 468,
+    "vehicles": 138,
+    "capacity": 256,
+    "total_amount": 35171,
+    "best_known_cost": 221909,
+    "proven_optimal": false
+  },
+  "X-n480-k70": {
+    "class": "X",
+    "jobs": 479,
+    "vehicles": 70,
+    "capacity": 52,
+    "total_amount": 3598,
+    "best_known_cost": 89458,
+    "proven_optimal": false
+  },
+  "X-n491-k59": {
+    "class": "X",
+    "jobs": 490,
+    "vehicles": 59,
+    "capacity": 428,
+    "total_amount": 24957,
+    "best_known_cost": 66510,
+    "proven_optimal": false
+  },
+  "X-n502-k39": {
+    "class": "X",
+    "jobs": 501,
+    "vehicles": 39,
+    "capacity": 13,
+    "total_amount": 501,
+    "best_known_cost": 69230,
+    "proven_optimal": false
+  },
+  "X-n513-k21": {
+    "class": "X",
+    "jobs": 512,
+    "vehicles": 21,
+    "capacity": 142,
+    "total_amount": 2905,
+    "best_known_cost": 24201,
+    "proven_optimal": false
+  },
+  "X-n524-k153": {
+    "class": "X",
+    "jobs": 523,
+    "vehicles": 137,
+    "capacity": 125,
+    "best_known_cost": 154594,
+    "proven_optimal": true
+  },
+  "X-n536-k96": {
+    "class": "X",
+    "jobs": 535,
+    "vehicles": 96,
+    "capacity": 371,
+    "total_amount": 35423,
+    "best_known_cost": 94988,
+    "proven_optimal": false
+  },
+  "X-n548-k50": {
+    "class": "X",
+    "jobs": 547,
+    "vehicles": 50,
+    "capacity": 11,
+    "total_amount": 547,
+    "best_known_cost": 86701,
+    "proven_optimal": false
+  },
+  "X-n561-k42": {
+    "class": "X",
+    "jobs": 560,
+    "vehicles": 42,
+    "capacity": 74,
+    "total_amount": 3055,
+    "best_known_cost": 42722,
+    "proven_optimal": false
+  },
+  "X-n573-k30": {
+    "class": "X",
+    "jobs": 572,
+    "vehicles": 30,
+    "capacity": 210,
+    "total_amount": 6172,
+    "best_known_cost": 50719,
+    "proven_optimal": false
+  },
+  "X-n586-k159": {
+    "class": "X",
+    "jobs": 585,
+    "vehicles": 159,
+    "capacity": 28,
+    "total_amount": 4430,
+    "best_known_cost": 190423,
+    "proven_optimal": false
+  },
+  "X-n599-k92": {
+    "class": "X",
+    "jobs": 598,
+    "vehicles": 92,
+    "capacity": 487,
+    "total_amount": 44741,
+    "best_known_cost": 108490,
+    "proven_optimal": false
+  },
+  "X-n613-k62": {
+    "class": "X",
+    "jobs": 612,
+    "vehicles": 62,
+    "capacity": 523,
+    "total_amount": 32002,
+    "best_known_cost": 59556,
+    "proven_optimal": false
+  },
+  "X-n627-k43": {
+    "class": "X",
+    "jobs": 626,
+    "vehicles": 43,
+    "capacity": 110,
+    "total_amount": 4713,
+    "best_known_cost": 62210,
+    "proven_optimal": false
+  },
+  "X-n641-k35": {
+    "class": "X",
+    "jobs": 640,
+    "vehicles": 35,
+    "capacity": 1381,
+    "total_amount": 47511,
+    "best_known_cost": 63737,
+    "proven_optimal": false
+  },
+  "X-n655-k131": {
+    "class": "X",
+    "jobs": 654,
+    "vehicles": 131,
+    "capacity": 5,
+    "total_amount": 654,
+    "best_known_cost": 106780,
+    "proven_optimal": true
+  },
+  "X-n670-k130": {
+    "class": "X",
+    "jobs": 669,
+    "vehicles": 126,
+    "capacity": 129,
+    "best_known_cost": 146477,
+    "proven_optimal": false
+  },
+  "X-n685-k75": {
+    "class": "X",
+    "jobs": 684,
+    "vehicles": 75,
+    "capacity": 408,
+    "total_amount": 30299,
+    "best_known_cost": 68261,
+    "proven_optimal": false
+  },
+  "X-n701-k44": {
+    "class": "X",
+    "jobs": 700,
+    "vehicles": 44,
+    "capacity": 87,
+    "total_amount": 3797,
+    "best_known_cost": 81934,
+    "proven_optimal": false
+  },
+  "X-n716-k35": {
+    "class": "X",
+    "jobs": 715,
+    "vehicles": 35,
+    "capacity": 1007,
+    "total_amount": 34266,
+    "best_known_cost": 43414,
+    "proven_optimal": false
+  },
+  "X-n733-k159": {
+    "class": "X",
+    "jobs": 732,
+    "vehicles": 159,
+    "capacity": 25,
+    "total_amount": 3969,
+    "best_known_cost": 136250,
+    "proven_optimal": false
+  },
+  "X-n749-k98": {
+    "class": "X",
+    "jobs": 748,
+    "vehicles": 98,
+    "capacity": 396,
+    "total_amount": 38414,
+    "best_known_cost": 77365,
+    "proven_optimal": false
+  },
+  "X-n766-k71": {
+    "class": "X",
+    "jobs": 765,
+    "vehicles": 71,
+    "capacity": 166,
+    "total_amount": 11695,
+    "best_known_cost": 114525,
+    "proven_optimal": false
+  },
+  "X-n783-k48": {
+    "class": "X",
+    "jobs": 782,
+    "vehicles": 48,
+    "capacity": 832,
+    "total_amount": 39413,
+    "best_known_cost": 72445,
+    "proven_optimal": false
+  },
+  "X-n801-k40": {
+    "class": "X",
+    "jobs": 800,
+    "vehicles": 40,
+    "capacity": 20,
+    "total_amount": 800,
+    "best_known_cost": 73331,
+    "proven_optimal": false
+  },
+  "X-n819-k171": {
+    "class": "X",
+    "jobs": 818,
+    "vehicles": 171,
+    "capacity": 358,
+    "total_amount": 60914,
+    "best_known_cost": 158267,
+    "proven_optimal": false
+  },
+  "X-n837-k142": {
+    "class": "X",
+    "jobs": 836,
+    "vehicles": 142,
+    "capacity": 44,
+    "total_amount": 6211,
+    "best_known_cost": 193813,
+    "proven_optimal": false
+  },
+  "X-n856-k95": {
+    "class": "X",
+    "jobs": 855,
+    "vehicles": 95,
+    "capacity": 9,
+    "total_amount": 855,
+    "best_known_cost": 89007,
+    "proven_optimal": false
+  },
+  "X-n876-k59": {
+    "class": "X",
+    "jobs": 875,
+    "vehicles": 59,
+    "capacity": 764,
+    "total_amount": 44534,
+    "best_known_cost": 99331,
+    "proven_optimal": false
+  },
+  "X-n895-k37": {
+    "class": "X",
+    "jobs": 894,
+    "vehicles": 37,
+    "capacity": 1816,
+    "total_amount": 67057,
+    "best_known_cost": 53946,
+    "proven_optimal": false
+  },
+  "X-n916-k207": {
+    "class": "X",
+    "jobs": 915,
+    "vehicles": 207,
+    "capacity": 33,
+    "total_amount": 6816,
+    "best_known_cost": 329247,
+    "proven_optimal": false
+  },
+  "X-n936-k151": {
+    "class": "X",
+    "jobs": 935,
+    "vehicles": 151,
+    "capacity": 138,
+    "total_amount": 20743,
+    "best_known_cost": 132926,
+    "proven_optimal": false
+  },
+  "X-n957-k87": {
+    "class": "X",
+    "jobs": 956,
+    "vehicles": 87,
+    "capacity": 11,
+    "total_amount": 956,
+    "best_known_cost": 85482,
+    "proven_optimal": false
+  },
+  "X-n979-k58": {
+    "class": "X",
+    "jobs": 978,
+    "vehicles": 58,
+    "capacity": 998,
+    "total_amount": 57369,
+    "best_known_cost": 119008,
+    "proven_optimal": false
+  },
+  "X-n1001-k43": {
+    "class": "X",
+    "jobs": 1000,
+    "vehicles": 43,
+    "capacity": 131,
+    "total_amount": 5557,
+    "best_known_cost": 72404,
+    "proven_optimal": false
+  }
+}

@@ -1,0 +1,28 @@
+%             index = randi([1 allocSize(1,1)],1,1);
+            index = 1;
+            maxDist = -inf;
+            for v=1:allocSize
+%                 echo on;
+%                 disp(nodes(allocatedNode(v,1),:));
+%                 echo off;
+                %if (nodes(allocatedNode(v,1),nodes(allocatedNode(v,1),6)+1) > maxDist)
+                if (nodes(allocatedNode(v,1),7) > maxDist)
+                    index = v;
+                    maxDist = nodes(allocatedNode(v,1),7);
+                end
+            end
+            %nodes(allocatedNode(index,1),6) = nodes(allocatedNode(index,1),6) + 1;
+            nodes(allocatedNode(index,1),7:k+5) = nodes(allocatedNode(index,1),8:k+6);
+            nodes(allocatedNode(index,1),k+6) = -inf;
+            for v=2:k
+                newAllocInd = listNearestNode(allocatedNode(index,1),v);
+                targetAllocNode = nodes(nodes(:,5)==newAllocInd,1:4);
+                targetWeight = sum(targetAllocNode(:,4),1);
+                if (targetWeight + allocatedNode(index,4) <= cap)
+                    nodes(allocatedNode(index,1),5) = newAllocInd;
+                    break;
+                end
+            end
+            allocatedNode = nodes(nodes(:,5)==u,1:4);
+            allocSize = size(allocatedNode(:,1));
+            weight = sum(allocatedNode(:,4),1);
